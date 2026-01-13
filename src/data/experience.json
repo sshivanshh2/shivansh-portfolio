@@ -1,0 +1,60 @@
+[
+  {
+    "id": "1",
+    "company": "Cranesmart",
+    "position": "Quality Assurance Software Tester",
+    "location": "Edmonton, AB",
+    "startDate": "2024-07-01",
+    "endDate": null,
+    "current": true,
+    "description": "Contributing to the reliability and performance of enterprise-grade industrial software systems through rigorous testing, documentation, and cross-functional collaboration.",
+    "achievements": [
+      "Built and maintained enterprise applications using React, TypeScript, ASP.NET/C#, and SQL Server",
+      "Designed REST and GraphQL endpoints improving application response times by 35% and achieving 99.9% uptime",
+      "Optimized SQL queries and database performance for large-scale load-chart analytics",
+      "Engineered scalable cloud deployments using AWS Lambda",
+      "Improved CI/CD pipelines in Azure DevOps and GitHub Actions, reducing deployment times by 40%",
+      "Created detailed documentation including testing checklists, change notes, and firmware replacement procedures"
+    ],
+    "technologies": [
+      "React",
+      "TypeScript",
+      "ASP.NET",
+      "C#",
+      "SQL Server",
+      "GraphQL",
+      "AWS Lambda",
+      "Azure DevOps",
+      "GitHub Actions"
+    ]
+  },
+  {
+    "id": "2",
+    "company": "Arrai Innovations",
+    "position": "Junior Full-Stack Developer",
+    "location": "Edmonton, AB",
+    "startDate": "2024-01-01",
+    "endDate": "2024-04-30",
+    "current": false,
+    "description": "Developed full-stack internal tools and automated testing systems to support business operations and improve software quality.",
+    "achievements": [
+      "Designed and delivered a full-stack internal platform (VUEDA) using Vue.js and Django/Python",
+      "Built automated testing frameworks with Playwright and pytest achieving 85%+ coverage",
+      "Reduced manual QA time by 30% and cut production bugs by 50% through TDD practices",
+      "Integrated third-party services and internal APIs ensuring seamless data flow",
+      "Performed code reviews and maintained version control using Git/GitHub",
+      "Collaborated with project managers and cross-functional teams using Trello and monday.com"
+    ],
+    "technologies": [
+      "Vue.js",
+      "Django",
+      "Python",
+      "Playwright",
+      "pytest",
+      "Git",
+      "GitHub",
+      "Trello",
+      "monday.com"
+    ]
+  }
+]

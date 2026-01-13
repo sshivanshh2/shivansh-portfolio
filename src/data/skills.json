@@ -1,0 +1,105 @@
+{
+  "frontend": [
+    {
+      "name": "React",
+      "level": "Expert",
+      "yearsOfExperience": 3
+    },
+    {
+      "name": "Next.js",
+      "level": "Expert",
+      "yearsOfExperience": 3
+    },
+    {
+      "name": "Vue.js",
+      "level": "Advanced",
+      "yearsOfExperience": 2
+    },
+    {
+      "name": "TypeScript",
+      "level": "Advanced",
+      "yearsOfExperience": 2
+    },
+    {
+      "name": "JavaScript",
+      "level": "Expert",
+      "yearsOfExperience": 4
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "Expert",
+      "yearsOfExperience": 2
+    },
+    {
+      "name": "HTML5/CSS3",
+      "level": "Expert",
+      "yearsOfExperience": 4
+    }
+  ],
+  "backend": [
+    {
+      "name": "Node.js",
+      "level": "Advanced",
+      "yearsOfExperience": 3
+    },
+    {
+      "name": "Express",
+      "level": "Advanced",
+      "yearsOfExperience": 2
+    },
+    {
+      "name": "ASP.NET",
+      "level": "Advanced",
+      "yearsOfExperience": 2
+    },
+    {
+      "name": "C#",
+      "level": "Advanced",
+      "yearsOfExperience": 3
+    },
+    {
+      "name": "Python",
+      "level": "Advanced",
+      "yearsOfExperience": 3
+    },
+    {
+      "name": "GraphQL",
+      "level": "Intermediate",
+      "yearsOfExperience": 2
+    },
+    {
+      "name": "REST APIs",
+      "level": "Expert",
+      "yearsOfExperience": 4
+    }
+  ],
+  "database": [
+    {
+      "name": "PostgreSQL",
+      "level": "Advanced",
+      "yearsOfExperience": 3
+    },
+    {
+      "name": "MySQL",
+      "level": "Advanced",
+      "yearsOfExperience": 3
+    },
+    {
+      "name": "SQL Server",
+      "level": "Advanced",
+      "yearsOfExperience": 3
+    }
+  ],
+  "tools": [
+    {
+      "name": "Git",
+      "level": "Expert",
+      "yearsOfExperience": 5
+    },
+    {
+      "name": "AWS",
+      "level": "Intermediate",
+      "yearsOfExperience": 2
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "Prostore Ecommerce Application",
+    "description": "Full-stack e-commerce solution with payment integration",
+    "longDescription": "A comprehensive e-commerce platform built with Next.js and Stripe. Features include product catalog, shopping cart, user authentication, order management, and secure payment processing. Implemented with a focus on performance and user experience.",
+    "technologies": ["Next.js", "React", "TypeScript", "Stripe", "Prisma", "PostgreSQL"],
+    "images": [""],
+    "liveUrl": "",
+    "githubUrl": "",
+    "featured": true,
+    "category": "Web Application",
+    "createdAt": "2025-12-25T17:35:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "Developer Portfolio Platform",
+    "description": "Production-grade, AI-enhanced portfolio built with Next.js, TypeScript, GraphQL, and modern UI tooling.",
+    "longDescription": "A production-grade, modern developer portfolio built with Next.js, TypeScript, and a strong focus on clean architecture, performance, and learning. The platform showcases dynamic project data, an optional blog/recipe section, and an AI-powered chat assistant that can answer questions about skills, experience, and featured work. It leverages Tailwind CSS, ShadCN UI, and Framer Motion for a responsive, accessible, and animated UI, while React Hook Form and Zod power robust form handling and validation. A GraphQL API backed by Apollo Server or Yoga serves project data to the frontend via Apollo Client, with optional headless CMS integration for content. The site includes dark mode, SEO optimization (metadata, OpenGraph, sitemap, structured data), lazy loading, code splitting, and a typed contact workflow using API routes and an external email service, designed to demonstrate production-ready patterns and best practices.",
+    "technologies": [
+        "Next.js",
+        "TypeScript",
+        "React",
+        "Tailwind CSS",
+        "ShadCN UI",
+        "Framer Motion",
+        "React Hook Form",
+        "Zod",
+        "GraphQL",
+        "Apollo Server",
+        "Apollo Client",
+        "Node.js",
+        "REST API",
+        "Vercel"
+    ],
+    "images": [""],
+    "liveUrl": "",
+    "githubUrl": "",
+    "featured": true,
+    "category": "Portfolio",
+    "createdAt": "2025-01-13T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "SaaS Admin Dashboard",
+    "description": "Modern analytics and management dashboard for SaaS platforms",
+    "longDescription": "A fully responsive and feature-rich admin dashboard designed for SaaS applications. Includes real‑time analytics, user management, subscription tracking, role-based access control, and customizable data visualizations. Built with a modular architecture for scalability and seamless integration with backend APIs. Features interactive charts, dark mode, and a clean, intuitive UI optimized for productivity.",
+    "technologies": ["React", "Next.js", "Javascript", "Tailwind CSS", "Recharts", "Prisma", "Supabase"],
+    "images": [""],
+    "liveUrl": "",
+    "githubUrl": "",
+    "featured": true,
+    "category": "Web Application",
+    "createdAt": "2025-11-23T00:00:00.000Z"
+  }
+]
